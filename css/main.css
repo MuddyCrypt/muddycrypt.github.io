@@ -23,14 +23,14 @@ body {
 
 
 #_logo {
-    width: 180px;
+    width: 170px;
 }
 
 
 #_text_primary {
     width: 512px;
-    font-size: 64px;
-    font-family: Arial, serif;
+    font-size: 52px;
+    font-family: Arial, sans-serif;
     text-align: center;
     color: lightgray;
     text-shadow: #2c542f 3px 3px;
@@ -38,7 +38,7 @@ body {
 
 
 #_text_sub {
-    font-size: 42px;
+    font-size: 40px;
     font-family: Consolas, serif;
     text-align: center;
     color: #1d2f2f;
@@ -51,7 +51,7 @@ footer {
     bottom: 0;
     width: 100%;
 
-    font-size: 32px;
+    font-size: 28px;
     text-align: center;
     color: #90909030;
 }
