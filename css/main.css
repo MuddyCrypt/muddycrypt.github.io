@@ -1,0 +1,57 @@
+﻿html {
+}
+
+
+body {
+    background: linear-gradient(160deg, black, darkolivegreen 300%);
+    height: 2800px;
+}
+
+
+#_panel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+
+    border: medium solid #101611;
+    padding: 100px;
+    padding-top: 200px;
+
+    text-align: center;
+}
+
+
+#_logo {
+    width: 180px;
+}
+
+
+#_text_primary {
+    width: 512px;
+    font-size: 64px;
+    font-family: Arial, serif;
+    text-align: center;
+    color: lightgray;
+    text-shadow: #2c542f 3px 3px;
+}
+
+
+#_text_sub {
+    font-size: 42px;
+    font-family: Consolas, serif;
+    text-align: center;
+    color: #1d2f2f;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    font-size: 32px;
+    text-align: center;
+    color: #90909030;
+}
